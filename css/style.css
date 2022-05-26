@@ -1,0 +1,22 @@
+.box{
+	font-size: 30px;
+	font-weight: 650;
+	text-align: center;
+	background-color:red;
+	height: 100px;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+.box3{
+	background-color: grey;
+	border: 1px solid red;
+}
+.box2{
+	margin-left: 200px;
+	width: 60%;
+	background-color: grey;
+}
+.box4{
+	margin-left: 65px;
+	margin-right: 65px;
+}
